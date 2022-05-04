@@ -130,7 +130,8 @@ p{
 }
 
 .join:hover{
-    background-color: black;
+    background-color: white;
+    color:red;
 }
 
 .Title{
@@ -238,3 +239,58 @@ p{
     text-align: center;
     margin-right: 200px;
 }
+
+.reimg{
+    float: left;
+    margin-right: 40px;
+    margin-bottom: 100px;
+}
+
+.revidea{
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    margin-top: 70px;
+    margin-right: 510px;
+}
+
+
+.pro{
+    color:white;
+    position: absolute;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-left: 429px;
+}
+
+.mem{
+    color:white;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 680px;
+    font-size: 30px;
+}
+
+.abt{
+    color:white;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 915px;
+    font-size: 30px;
+}
+
+.con{
+    color:white;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 1110px;
+    font-size: 30px;
+}
+
+
+
+/*.abt{*/
+/*    position: absolute;*/
+/*    margin-left: 400px;*/
+/*    margin-top: 50px;*/
+/*}*/
